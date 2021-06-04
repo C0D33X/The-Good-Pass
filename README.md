@@ -1,5 +1,5 @@
 # The-Good-Pass
-Random password generaor + tKinter GUI
+# Random password generaor + tKinter GUI
 
 This is my first project on Python. Initially I check on internet to find what kind of script are easy to begin code on Python. 
 I found on Instagram a post, with 5 or 10 (I don't remember exactly) scripts easy to code and good for learning Python. Password generator was one of this. 
